@@ -2,7 +2,7 @@
 
 /////////// Add your own email below //////////////// 
 
-	define("WEBMASTER_EMAIL", 'bitpublimedia@gmail.com');
+	define("WEBMASTER_EMAIL", 'jgrund01@gmail.com');
 	
 	error_reporting (E_ALL ^ E_NOTICE);
 

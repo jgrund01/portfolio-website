@@ -101,9 +101,11 @@
 	}
 	
 	.cv-item h3 { margin-bottom: 0; }
+
+	.pad p { padding-right: 100px;}
 	
 	.social-media { margin-bottom: 20px; }
-	
+
 	.period {
 		float: right;
 		padding: 12px 20px;
